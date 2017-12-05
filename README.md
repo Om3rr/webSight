@@ -21,8 +21,8 @@ Licensed under the Apache License, Version 2.0 (the "License");
 
 # Installation
 1. create virtualenv and activate it 
-2. Install requirements  '''pip install -r requirements.txt'''
-3. Run application script '''python application.py'''
+2. Install requirements  ```pip install -r requirements.txt```
+3. Run application script ```python application.py```
 
 # Usage
 4. For UI usage and testing, go to http://0.0.0.0:8000 

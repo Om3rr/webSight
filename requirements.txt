@@ -3,3 +3,7 @@ gunicorn
 scipy
 numpy
 tensorflow
+caffe
+skimage
+matplotlib
+argparse

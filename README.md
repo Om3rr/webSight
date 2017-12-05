@@ -49,3 +49,11 @@ If you want to contribute you are more than welcome. These are the possible cont
   For any help\guidance contact: ron.urbach@mail.huji.ac.il .
 - To add new modules, please make sure you follow the Request\Response API.
 
+README for devoplpers that wants to use the website's modules.
+REQUIREMENTS:
+- Knowledge in POST request
+
+HOW TO USE:
+Create a post request with the following url: "websiteURL/a_module_to_apply/parameters_for_the_module"
+In the POST request adds the image as a string represntation.
+Waits for a response, and reads the image as a string represantation.
